@@ -45,23 +45,25 @@ In short:
 
 On first run, a `config.txt` file will be created automatically:
 
-```ini
 # Configuration for Discord Priority Setter
 
 # Set the full path to your Discord.exe below:
+
 discord_path=C:\Path\To\Discord.exe
 
 # Priority options: low, below_normal, normal, above_normal, high, realtime
+
 priority=high
 
 # Interval in seconds between priority checks
+
 interval=15
 To reload settings live, just type r and press Enter in the terminal. To quit and stop Discord, type q.
-'''
 
 ## 🖥️ How to Use
 
 ### 🐍 Option 1: Run with Python
+
 Install Python 3.x if not already installed.
 
 Install required dependencies:
@@ -78,6 +80,7 @@ Edit
 python discord_priority_launcher.py
 
 ### 📦 Option 2: Download the EXE
+
 You can download the precompiled .exe from the Releases page.
 Just double-click to launch Discord with priority control. No installation required.
 
@@ -86,6 +89,7 @@ Make a shortcut to the .exe and use that instead of your regular Discord shortcu
 ---
 
 ## ❌ Limitations
+
 Windows only
 
 This is not a background service; it runs in a terminal window
@@ -95,6 +99,7 @@ You must start Discord through this tool for it to work
 ---
 
 ## 🔒 Safety & Behavior
+
 This tool does not modify Discord itself
 
 It does not inject into any processes or hook anything
@@ -104,10 +109,15 @@ It only watches for Discord.exe and adjusts its priority
 ---
 
 ## 🙋 Feedback or Questions?
+
 Open an Issue or submit a Pull Request.
 
 ---
 
 ## License
+
 MIT License — see LICENSE file for details.
+
+```
+
 ```
