@@ -72,16 +72,12 @@ Install Python 3.x if not already installed.
 Install required dependencies:
 
 ```bash
-Copy
-Edit
 pip install psutil
 ```
 
 Run the launcher:
 
 ```bash
-Copy
-Edit
 python discord_priority_launcher.py
 ```
 
@@ -120,6 +116,6 @@ Open an Issue or submit a Pull Request.
 
 ---
 
-## License
+## 📄 License
 
 MIT License — see LICENSE file for details.
