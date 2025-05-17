@@ -45,21 +45,21 @@ In short:
 
 On first run, a `config.txt` file will be created automatically:
 
-! Configuration for Discord Priority Setter
+- Configuration for Discord Priority Setter
 
-! Set the full path to your Discord.exe below:
+- Set the full path to your Discord.exe below:
 
 discord_path=C:\Path\To\Discord.exe
 
-! Priority options: low, below_normal, normal, above_normal, high, realtime
+- Priority options: low, below_normal, normal, above_normal, high, realtime
 
 priority=high
 
-! Interval in seconds between priority checks
+- Interval in seconds between priority checks
 
 interval=15
 
-To reload settings live, just type r and press Enter in the terminal. To quit and stop Discord, type q.
+- To reload settings live, just type r and press Enter in the terminal. To quit and stop Discord, type q.
 
 ---
 
