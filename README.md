@@ -71,16 +71,19 @@ Install Python 3.x if not already installed.
 
 Install required dependencies:
 
-bash
+```bash
 Copy
 Edit
 pip install psutil
+```
+
 Run the launcher:
 
-bash
+```bash
 Copy
 Edit
 python discord_priority_launcher.py
+```
 
 ### 📦 Option 2: Download the EXE
 
