@@ -19,7 +19,7 @@ DEFAULT_CONFIG = {
     "interval": "15",
 }
 
-CONFIG_TEMPLATE = f"""# Configuration for Discord Priority Setter
+CONFIG_TEMPLATE = f"""# Configuration for Discord Priority Launcher
 # Set the full path to your Discord.exe below:
 discord_path={DEFAULT_CONFIG['discord_path']}
 

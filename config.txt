@@ -1,4 +1,4 @@
-# Configuration for Discord Priority Setter
+# Configuration for Discord Priority Launcher
 # Set the full path to your Discord.exe below:
 discord_path=C:\Path\To\Discord.exe
 
