@@ -57,10 +57,11 @@ priority=high
 # Interval in seconds between priority checks
 interval=15
 To reload settings live, just type r and press Enter in the terminal. To quit and stop Discord, type q.
+'''
 
-🖥️ How to Use
+## 🖥️ How to Use
 
-🐍 Option 1: Run with Python
+### 🐍 Option 1: Run with Python
 Install Python 3.x if not already installed.
 
 Install required dependencies:
@@ -76,31 +77,37 @@ Copy
 Edit
 python discord_priority_launcher.py
 
-📦 Option 2: Download the EXE
+### 📦 Option 2: Download the EXE
 You can download the precompiled .exe from the Releases page.
 Just double-click to launch Discord with priority control. No installation required.
 
 Make a shortcut to the .exe and use that instead of your regular Discord shortcut.
 
-❌ Limitations
+---
+
+## ❌ Limitations
 Windows only
 
 This is not a background service; it runs in a terminal window
 
 You must start Discord through this tool for it to work
 
-🔒 Safety & Behavior
+---
+
+## 🔒 Safety & Behavior
 This tool does not modify Discord itself
 
 It does not inject into any processes or hook anything
 
 It only watches for Discord.exe and adjusts its priority
 
-🙋 Feedback or Questions?
+---
+
+## 🙋 Feedback or Questions?
 Open an Issue or submit a Pull Request.
 
+---
 
-
-License
+## License
 MIT License — see LICENSE file for details.
 ```
