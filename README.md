@@ -120,7 +120,3 @@ Open an Issue or submit a Pull Request.
 ## License
 
 MIT License — see LICENSE file for details.
-
-```
-
-```
